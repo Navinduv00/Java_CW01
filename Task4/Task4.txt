@@ -1,0 +1,73 @@
+ -------------------------- Booth Details --------------------------
+Name : asda
+Booth Number: 0
+      First Name : asda
+      SurName : asda
+      Vaccine : AstraZeneca
+      Age : 2131
+      City : sadas
+      Passport/ID : 123124
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 1
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 2
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 3
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 4
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+  -------------------------- Booth Details --------------------------
+Name : Booth Empty
+Booth Number: 5
+      First Name : 
+      SurName : 
+      Vaccine : 
+      Age : 0
+      City : 
+      Passport/ID : 0
+________________________________________________________________________________________
+
+
+ 
